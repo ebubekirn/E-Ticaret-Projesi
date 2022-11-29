@@ -1,0 +1,14 @@
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\bin\Debug\net6.0\ETrade.Dto.deps.json
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\bin\Debug\net6.0\ETrade.Dto.runtimeconfig.json
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\bin\Debug\net6.0\ETrade.Dto.dll
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\bin\Debug\net6.0\ETrade.Dto.pdb
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ETrade.Dto.csproj.AssemblyReference.cache
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ETrade.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ETrade.Dto.AssemblyInfoInputs.cache
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ETrade.Dto.AssemblyInfo.cs
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ETrade.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ETrade.Dto.dll
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\refint\ETrade.Dto.dll
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ETrade.Dto.pdb
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ETrade.Dto.genruntimeconfig.cache
+C:\Users\ebube\Desktop\ERP\ERP301SABAH\19-KatmanliMimari\ETrade\ETrade.Dto\obj\Debug\net6.0\ref\ETrade.Dto.dll
